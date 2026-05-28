@@ -13,9 +13,6 @@ A minimal, aesthetic personal journaling app built with Flutter. SoulJournal off
 - **Grain Texture Background** — A subtle hand-painted grain effect adds warmth and texture to the canvas.
 - **Gradient Header** — The app title uses a mauve → rose → amber gradient rendered with `ShaderMask`.
 
-## Screenshots
-
-_Coming soon_
 
 ## Tech Stack
 
